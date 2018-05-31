@@ -18,5 +18,6 @@
   "homepage": "https://github.com/kanekohiroyuki/Sample5#readme",
   "dependencies": {
     "http-server": "^0.11.1"
-  }
+  },
+  "devDependencies": {}
 }
